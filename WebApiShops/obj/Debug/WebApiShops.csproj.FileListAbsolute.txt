@@ -1,0 +1,469 @@
+C:\src\WebApiShops\WebApiShops\bin\ApplicationInsights.config
+C:\src\WebApiShops\WebApiShops\bin\roslyn\csc.exe
+C:\src\WebApiShops\WebApiShops\bin\roslyn\csc.exe.config
+C:\src\WebApiShops\WebApiShops\bin\roslyn\csc.rsp
+C:\src\WebApiShops\WebApiShops\bin\roslyn\csi.exe
+C:\src\WebApiShops\WebApiShops\bin\roslyn\csi.rsp
+C:\src\WebApiShops\WebApiShops\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\src\WebApiShops\WebApiShops\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\src\WebApiShops\WebApiShops\bin\roslyn\System.AppContext.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\System.Collections.Immutable.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\System.IO.FileSystem.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\System.Reflection.Metadata.dll
+C:\src\WebApiShops\WebApiShops\bin\roslyn\vbc.exe
+C:\src\WebApiShops\WebApiShops\bin\roslyn\vbc.exe.config
+C:\src\WebApiShops\WebApiShops\bin\roslyn\vbc.rsp
+C:\src\WebApiShops\WebApiShops\bin\roslyn\VBCSCompiler.exe
+C:\src\WebApiShops\WebApiShops\bin\roslyn\VBCSCompiler.exe.config
+C:\src\WebApiShops\WebApiShops\bin\WebApiShops.dll.config
+C:\src\WebApiShops\WebApiShops\bin\WebApiShops.dll
+C:\src\WebApiShops\WebApiShops\bin\WebApiShops.pdb
+C:\src\WebApiShops\WebApiShops\bin\Antlr3.Runtime.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AI.Agent.Intercept.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AI.DependencyCollector.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AI.Web.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AI.WindowsServer.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.ApplicationInsights.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Web.Infrastructure.dll
+C:\src\WebApiShops\WebApiShops\bin\Newtonsoft.Json.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Net.Http.Formatting.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Helpers.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Http.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Http.WebHost.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Mvc.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Optimization.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Razor.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Web.WebPages.Deployment.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Web.WebPages.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Web.WebPages.Razor.dll
+C:\src\WebApiShops\WebApiShops\bin\WebGrease.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\src\WebApiShops\WebApiShops\bin\Newtonsoft.Json.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Net.Http.Formatting.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Helpers.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Http.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Http.WebHost.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Mvc.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Optimization.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Web.Razor.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Web.WebPages.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Web.WebPages.Deployment.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Web.WebPages.Razor.xml
+C:\src\WebApiShops\WebApiShops\bin\Antlr3.Runtime.pdb
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.ApplicationInsights.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AI.DependencyCollector.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AI.WindowsServer.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AI.Web.xml
+C:\src\WebApiShops\WebApiShops\obj\Debug\WebApiShops.csprojResolveAssemblyReference.cache
+C:\src\WebApiShops\WebApiShops\obj\Debug\WebApiShops.dll
+C:\src\WebApiShops\WebApiShops\obj\Debug\WebApiShops.pdb
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Authorization.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Cors.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Hosting.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Http.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Localization.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Razor.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Routing.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.CodeAnalysis.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.DependencyModel.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Localization.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Logging.Console.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Logging.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.ObjectPool.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Options.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Primitives.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.WebEncoders.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Net.Http.Headers.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Buffers.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Collections.Immutable.dll
+C:\src\WebApiShops\WebApiShops\bin\System.ComponentModel.Primitives.dll
+C:\src\WebApiShops\WebApiShops\bin\System.ComponentModel.TypeConverter.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Diagnostics.DiagnosticSource.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Numerics.Vectors.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Reflection.Metadata.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Text.Encodings.Web.dll
+C:\src\WebApiShops\WebApiShops\bin\System.Threading.Tasks.Extensions.dll
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Authorization.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Cors.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Hosting.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Http.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Localization.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Razor.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Routing.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.CodeAnalysis.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Localization.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Logging.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Logging.Console.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.ObjectPool.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Options.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.Primitives.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Extensions.WebEncoders.xml
+C:\src\WebApiShops\WebApiShops\bin\Microsoft.Net.Http.Headers.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Collections.Immutable.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Diagnostics.DiagnosticSource.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Numerics.Vectors.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Reflection.Metadata.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Text.Encodings.Web.xml
+C:\src\WebApiShops\WebApiShops\bin\System.Threading.Tasks.Extensions.xml
+C:\src\WebApiShops - копия\WebApiShops\obj\Debug\WebApiShops.csprojResolveAssemblyReference.cache
+C:\src\WebApiShops - копия\WebApiShops\obj\Debug\WebApiShops.dll
+C:\src\WebApiShops - копия\WebApiShops\obj\Debug\WebApiShops.pdb
+C:\src\WebApiShops - копия\WebApiShops\bin\ApplicationInsights.config
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\csc.exe
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\csc.exe.config
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\csc.rsp
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\csi.exe
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\csi.rsp
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\System.AppContext.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\System.Collections.Immutable.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\System.IO.FileSystem.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\System.Reflection.Metadata.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\vbc.exe
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\vbc.exe.config
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\vbc.rsp
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\VBCSCompiler.exe
+C:\src\WebApiShops - копия\WebApiShops\bin\roslyn\VBCSCompiler.exe.config
+C:\src\WebApiShops - копия\WebApiShops\bin\WebApiShops.dll.config
+C:\src\WebApiShops - копия\WebApiShops\bin\WebApiShops.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\WebApiShops.pdb
+C:\src\WebApiShops - копия\WebApiShops\bin\Antlr3.Runtime.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AI.Agent.Intercept.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AI.DependencyCollector.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AI.Web.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AI.WindowsServer.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.ApplicationInsights.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Authorization.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Cors.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Hosting.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Http.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Localization.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Razor.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Routing.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.CodeAnalysis.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.DependencyModel.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Localization.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Logging.Console.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Logging.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.ObjectPool.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Options.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Primitives.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.WebEncoders.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Net.Http.Headers.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Web.Infrastructure.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Newtonsoft.Json.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Buffers.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Collections.Immutable.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.ComponentModel.Primitives.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.ComponentModel.TypeConverter.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Diagnostics.DiagnosticSource.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Net.Http.Formatting.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Numerics.Vectors.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Reflection.Metadata.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Text.Encodings.Web.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Threading.Tasks.Extensions.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Helpers.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Http.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Http.WebHost.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Mvc.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Optimization.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Razor.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.WebPages.Deployment.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.WebPages.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.WebPages.Razor.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\WebGrease.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Authorization.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Cors.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Hosting.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Http.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Localization.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Razor.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Routing.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.CodeAnalysis.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Localization.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Logging.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Logging.Console.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.ObjectPool.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Options.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.Primitives.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Extensions.WebEncoders.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.Net.Http.Headers.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Newtonsoft.Json.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Collections.Immutable.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Diagnostics.DiagnosticSource.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Numerics.Vectors.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Reflection.Metadata.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Text.Encodings.Web.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Threading.Tasks.Extensions.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Net.Http.Formatting.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Helpers.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Http.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Http.WebHost.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Mvc.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Optimization.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.Razor.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.WebPages.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.WebPages.Deployment.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\System.Web.WebPages.Razor.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Antlr3.Runtime.pdb
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.ApplicationInsights.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AI.DependencyCollector.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AI.WindowsServer.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Microsoft.AI.Web.xml
+C:\src\WebApiShops - копия\WebApiShops\bin\Swashbuckle.Core.dll
+C:\src\WebApiShops - копия\WebApiShops\bin\WebActivatorEx.dll
+C:\src\WebApiShops\WebApiShops\bin\Ninject.dll
+C:\src\WebApiShops\WebApiShops\bin\Ninject.Web.Common.dll
+C:\src\WebApiShops\WebApiShops\bin\Swashbuckle.Core.dll
+C:\src\WebApiShops\WebApiShops\bin\WebActivatorEx.dll
+C:\src\WebApiShops\WebApiShops\bin\Ninject.xml
+C:\src\WebApiShops\WebApiShops\bin\Ninject.Web.Common.xml
+C:\src\WebApiShops\WebApiShops\bin\Ninject.Web.Mvc.dll
+C:\src\WebApiShops\WebApiShops\bin\Ninject.Web.Mvc.xml
+C:\src\WebApiShops\WebApiShops\bin\WebApiContrib.IoC.Ninject.dll
